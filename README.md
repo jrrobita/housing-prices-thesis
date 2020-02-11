@@ -77,11 +77,7 @@ To answer the research question of whether there is a statistically significant 
 
 The full regression model is:
 
-[equation](Equation_of_Regression.JPG)
-
-〖log⁡(Value of Dwelling〗_(i ))= β_0+ β_1 〖 Dist to Nearest Uni〗_i+β_(2 ) 〖Dist to CBD〗_i+β_(3 ) 〖〖Sq.Ft.Dwelling Space〗_i/(Numberof Bedrooms)〗_i+β_4 〖Number of Bedrooms〗_i+β_(5 ) 〖Number of Bathrooms〗_i+β_6 Fair Quality Dummy+β_(7 ) 〖Good Quality Dummy〗_i+β_8 〖Very Good Quality Dummy〗_i+β_10 〖Garage Dummie〗_i+u_i
-
-Where, i = 1,…,n and consists of residential properties in the study area.
+[Equation](Equation_of_Regression.JPG)
 
 The physical and location characteristics used are those stated in the empirical framework and listed above, and summary statistics of these variable are presented in Table 1.
 
